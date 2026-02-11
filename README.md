@@ -92,7 +92,7 @@ Whether you're running a small survival server or a large network, this guide co
 Using optimized garbage collection flags is crucial for reducing lag spikes. For production servers, use flags specifically tuned for Minecraft.
 
 **Standard Recommended Flags:**
-These provide excellent performance for most servers. For a detailed breakdown of each flag and customized profiles based on your specific server type, player count, and requirements, see our comprehensive [Java Flags Guide](/guides/java-flags).
+These provide excellent performance for most servers. For a detailed breakdown of each flag and customized profiles based on your specific server type, player count, and requirements, see our comprehensive [Java Flags Guide](https://renerverse.win/assets/guides/java-flags).
 
 ```bash
 java -Xms4G -Xmx4G -XX:+AlwaysPreTouch -XX:+DisableExplicitGC -XX:+ParallelRefProcEnabled -XX:+PerfDisableSharedMem -XX:+UnlockExperimentalVMOptions -XX:+UseG1GC -XX:G1HeapRegionSize=8M -XX:G1HeapWastePercent=5 -XX:G1MaxNewSizePercent=40 -XX:G1MixedGCCountTarget=4 -XX:G1MixedGCLiveThresholdPercent=90 -XX:G1NewSizePercent=30 -XX:G1RSetUpdatingPauseTimePercent=5 -XX:G1ReservePercent=20 -XX:InitiatingHeapOccupancyPercent=15 -XX:MaxGCPauseMillis=200 -XX:MaxTenuringThreshold=1 -XX:SurvivorRatio=32 -Dusing.aikars.flags=https://mcflags.emc.gs -Daikars.new.flags=true -jar server.jar --nogui
@@ -2091,7 +2091,7 @@ Your players will thank you for the smooth, lag-free experience!
 
 **For pre-generated custom worlds optimized for performance, visit [worlds.renerverse.win](https://worlds.renerverse.win)**
 
-**For detailed Java flag configurations and profiles optimized for your specific server type, see our [Java Flags Guide](https://renerverse.win/guides/java-flags)**
+**For detailed Java flag configurations and profiles optimized for your specific server type, see our [Java Flags Guide](https://renerverse.win/assets/guides/java-flags)**
 
 ---
 
