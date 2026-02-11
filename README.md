@@ -1,3 +1,14 @@
+![Java](https://img.shields.io/badge/java-ED8B00?logo=openjdk&logoColor=white)
+![Minecraft](https://img.shields.io/badge/minecraft-server-62B47A?logo=minecraft&logoColor=white)
+![Bukkit](https://img.shields.io/badge/bukkit-api-FF6B00)
+![Spigot](https://img.shields.io/badge/spigot-ED8106)
+![PaperMC](https://img.shields.io/badge/papermc-FFFFFF?logo=papermc&logoColor=black)
+![Pufferfish](https://img.shields.io/badge/pufferfish-ff69b4)
+![Purpur](https://img.shields.io/badge/purpur-9B59B6)
+![Optimization](https://img.shields.io/badge/optimization-performance-2ECC71)
+![Java Flags](https://img.shields.io/badge/java--flags-tuning-007396)
+![Java Argument File](https://img.shields.io/badge/java--argument--file-args-4B8BBE)
+
 # Optimize Your Minecraft Server: The Complete Guide
 
 ## Introduction
