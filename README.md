@@ -103,7 +103,7 @@ java -Xms4G -Xmx4G -XX:+AlwaysPreTouch -XX:+DisableExplicitGC -XX:+ParallelRefPr
 - Adjust memory allocation based on player count and world size
 - The `--add-modules=jdk.incubator.vector` flag (beta) can provide additional performance gains
 
-For detailed explanations of each parameter and specialized flag configurations for different scenarios (survival, minigames, high player count, etc.), visit our [Java Flags Guide](https://renerverse.win/guides/java-flags).
+For detailed explanations of each parameter and specialized flag configurations for different scenarios (survival, minigames, high player count, etc.), visit our [Java Flags Guide](https://renerverse.win/assets/guides/java-flags).
 
 ---
 
